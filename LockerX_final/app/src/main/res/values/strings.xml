@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LockerXLogin</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_main_page">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_lockers">Lockers</string>
+    <string name="title_wallet">Wallet</string>
+    <string name="title_account">Account</string>
+    <string-array name="name">
+        <item>Visa</item>
+        <item>MasterCard</item>
+        <item>PayLah!</item>
+    </string-array>
+    <string-array name="size">
+        <item>small (30x40x30cm)</item>
+        <item>medium (40x50x40cm)</item>
+        <item>large (60x60x60cm)</item>
+    </string-array>
+    <string-array name="topupList">
+        <item>Cards</item>
+        <item>PayLah</item>
+        <item>PayNow</item>
+    </string-array>
+
+</resources>

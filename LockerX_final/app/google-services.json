@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "107502947084",
+    "firebase_url": "https://cz3002-x-lock-default-rtdb.firebaseio.com",
+    "project_id": "cz3002-x-lock",
+    "storage_bucket": "cz3002-x-lock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107502947084:android:c30a5e35072f38c9219729",
+        "android_client_info": {
+          "package_name": "com.example.lockerxlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107502947084-tcjdgin73b31pmm91d55lketb32unr4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ8Y9L-elocaLd_DRzp2Kn72FYcgpUx38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107502947084-tcjdgin73b31pmm91d55lketb32unr4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

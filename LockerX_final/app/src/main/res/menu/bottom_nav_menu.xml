@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:orderInCategory="0"
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home24dp"
+        android:title="Home"
+        />
+
+    <item
+        android:orderInCategory="1"
+        android:id="@+id/navigation_lockers"
+        android:icon="@drawable/lock24dp"
+        android:title="Lockers"
+        />
+
+    <item
+        android:orderInCategory="2"
+        android:id="@+id/navigation_wallet"
+        android:icon="@drawable/wallet24dp"
+        android:title="Wallet"
+        />
+
+    <item
+        android:orderInCategory="3"
+        android:id="@+id/navigation_account"
+        android:icon="@drawable/accounts24dp"
+        android:title="Account"
+        />
+</menu>
